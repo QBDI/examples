@@ -8,7 +8,7 @@ This directory contains the materials associated with the blog post [QBDI 0.7.0]
   $ mdkir build
   $ sh ../../scripts/android-x86.sh
   $ make libshellx_qbdi
-  # Run the an x86/x86-64 emulator
+  # Run an x86/x86-64 emulator ...
   $ make push
 ```
 
