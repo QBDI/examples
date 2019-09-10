@@ -1,6 +1,6 @@
 # QBDI Packer Example
 
-This directory contains the materials associated with the blog post [QBDI 0.7.0]()
+This directory contains the materials associated with the blog post [QBDI 0.7.0](https://blog.quarkslab.com/qbdi-070.html)
 
 ## Quick Start
 
