@@ -86,7 +86,7 @@ COMPILED_SCRIPT="${BUILD_DIRECTORY}/scriptCompiled.js"
 
 ln -f -s "${SCRIPT_DIR}/script.js" "${BUILD_SCRIPT}"
 
-npm install frida-compile
+npm install frida-compile babelify
 ./node_modules/.bin/frida-compile "${BUILD_SCRIPT}" -o "${COMPILED_SCRIPT}"
 
 #5. execute
